@@ -4,3 +4,5 @@ sudo apt-get update
 sudo apt-get upgrade
 
 sudo apt-get install -y texlive-lang-cjk
+
+sudo apt-get install -y texlive-fonts-recommended
