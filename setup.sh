@@ -12,3 +12,4 @@ sudo apt-get install vim
 
 sh git-install.sh
 sh dotfiles.sh
+sh tex-install.sh
