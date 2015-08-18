@@ -13,3 +13,4 @@ sudo apt-get -y install vim
 sh git-install.sh
 sh dotfiles.sh
 sh tex-install.sh
+sh vim-setup.sh
