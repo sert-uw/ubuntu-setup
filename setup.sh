@@ -14,3 +14,4 @@ sh git-install.sh
 sh dotfiles.sh
 sh tex-install.sh
 sh vim-setup.sh
+sh rbenv-install.sh
